@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonbase", "Moonbase\Moonbase.csproj", "{AB267A5A-A73F-4024-B297-2173AA5DC279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB267A5A-A73F-4024-B297-2173AA5DC279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB267A5A-A73F-4024-B297-2173AA5DC279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB267A5A-A73F-4024-B297-2173AA5DC279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB267A5A-A73F-4024-B297-2173AA5DC279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77762A1-FF73-422C-BD2B-7B28C1D1D803}
+	EndGlobalSection
+EndGlobal
